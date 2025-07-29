@@ -1,4 +1,6 @@
 # Git 안쓰는 MZ 개발자
+# 웹 디자인 할 때 JS 쓰면 화내는 개발자
+# 사이트
 - https://project-recovery.vercel.app/
 - https://ent3.kro.kr/
 - https://beta.ent3.kro.kr/
